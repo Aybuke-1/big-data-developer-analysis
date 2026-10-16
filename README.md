@@ -3,8 +3,7 @@
 ## 📌 Project Overview
 This big data analytics project investigates how software learning methods, programming language proficiencies, and artificial intelligence (AI) adoption impact developer careers and global compensation. 
 
-* **Course:** YBS405 - Big Data Management
-* **Institution:** Piri Reis University - Management Information Systems Department
+
 * **Data Source:** [Stack Overflow Annual Developer Survey (Kaggle)](https://www.kaggle.com/datasets/berkayalan/stack-overflow-annual-developer-survey-2024) (65,437 initial responses)
 
 ---
