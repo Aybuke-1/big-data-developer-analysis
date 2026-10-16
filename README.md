@@ -22,15 +22,18 @@ This big data analytics project investigates how software learning methods, prog
 
 ### 1. How Developers Learn to Code
 Online resources (videos, blogs, communities) and books represent the primary learning medium, outranking traditional academic schooling.
-![grafik1_ogrenme_yontemleri.png]()
+<img width="2000" height="1000" alt="grafik1_ogrenme_yontemleri" src="https://github.com/user-attachments/assets/3017ccbb-636e-41a8-9df2-cac51be4287a" />
+
 
 ### 2. Highest Paying Programming Languages
 Among the most widely adopted languages, **Bash/Shell, Python, and TypeScript** command the highest median salaries (> $70,000/year).
-[grafik2_en_cok_kazandiran_diller.png]
+<img width="2000" height="1000" alt="grafik2_en_cok_kazandiran_diller" src="https://github.com/user-attachments/assets/2ea94a5f-758b-40af-86cb-fe0d43022854" />
+
 
 ### 3. AI Tool Adoption & Salary Dynamics
 Developers actively integrating AI tools into their workflows represent the rapidly emerging tech standard, while senior non-adopters maintain high current baseline compensation.
-[grafik3_ai_kullanimi_ve_maas.png]
+<img width="1600" height="1000" alt="grafik3_ai_kullanimi_ve_maas" src="https://github.com/user-attachments/assets/f4fdb95b-6876-4e31-a4ce-3ba637651a78" />
+
 
 ---
 
