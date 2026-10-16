@@ -22,7 +22,7 @@ This big data analytics project investigates how software learning methods, prog
 
 ### 1. How Developers Learn to Code
 Online resources (videos, blogs, communities) and books represent the primary learning medium, outranking traditional academic schooling.
-[grafik1_ogrenme_yontemleri.png]
+![grafik1_ogrenme_yontemleri.png]()
 
 ### 2. Highest Paying Programming Languages
 Among the most widely adopted languages, **Bash/Shell, Python, and TypeScript** command the highest median salaries (> $70,000/year).
